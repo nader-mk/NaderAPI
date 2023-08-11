@@ -1,6 +1,31 @@
 {
-  "latest_version": "2.0",
-  "min_supported_version": "1.5",
-  "update_message": "A new update is available! Please install the latest version.",
-  "update_url": "https://your_update_url_here.com"
+  "latest_version": "1.2.0",
+  "minimum_supported_version": "1.0.0",
+  "force_update": false,
+  "update_url": "https://yourapp.com/update",
+  "release_notes": [
+    {
+      "version": "1.2.0",
+      "date": "2023-08-11",
+      "changes": [
+        "Added new feature: ChatGPT integration",
+        "Improved performance and stability"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2023-07-15",
+      "changes": [
+        "Enhanced user interface",
+        "Bug fixes"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2023-06-01",
+      "changes": [
+        "Initial release"
+      ]
+    }
+  ]
 }
