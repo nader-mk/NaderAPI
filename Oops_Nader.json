@@ -1,0 +1,6 @@
+{
+  "latest_version": "2.0",
+  "min_supported_version": "1.5",
+  "update_message": "A new update is available! Please install the latest version.",
+  "update_url": "https://your_update_url_here.com"
+}
